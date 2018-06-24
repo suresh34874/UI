@@ -4,7 +4,7 @@ Steps to run this react app
 Download the zip file and extract
 
 2. go to UI folder and run the following npm commands
-	npm insatll
+	npm install
 	npm start
 	
 3. hit this url localhost:3000/ to test	
