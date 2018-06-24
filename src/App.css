@@ -1,0 +1,21 @@
+.parentDiv{
+  padding: 100px;
+}
+
+.jumbotronFont{
+  font-size: 100px;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.clearBtn{
+  margin-right: 10px;
+}
